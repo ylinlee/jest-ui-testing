@@ -17,3 +17,6 @@ Initial:
 
 After changes:
 ![invalid](/images/after_changes_template.png?raw=true)
+
+Diff between templates:
+![diff](/images/diff_template.png?raw=true)
