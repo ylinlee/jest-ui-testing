@@ -9,3 +9,11 @@ Please note that Jest >=20 <=22 is a peerDependency. jest-image-snapshot will no
   $ npm run server
   $ npm run test
   ```
+
+## Templates
+
+Initial:
+![valid](/images/valid_template.png/?raw=true)
+
+After changes:
+![invalid](/images/after_changes_template.png?raw=true)
