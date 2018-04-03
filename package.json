@@ -1,0 +1,22 @@
+{
+  "name": "visual-ui-regression-testing",
+  "version": "1.0.0",
+  "description": "visual ui test",
+  "main": "test.js",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "jest": "22.0.0",
+    "jest-image-snapshot": "^2.4.0",
+    "puppeteer": "^1.2.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "jest",
+    "server": "node server"
+  },
+  "keywords": [
+    "visual-ui-testing"
+  ],
+  "author": "yclin",
+  "license": "ISC"
+}
