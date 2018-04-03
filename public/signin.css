@@ -47,3 +47,17 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+/* Changes for testing */
+.mb-3.font-weight-normal {
+  text-align: left;
+  margin-bottom: .5rem!important;
+}
+
+.mt-5.mb-3.text-muted {
+  margin-top: 4.5rem!important;
+}
+
+.checkbox.mb-3 > label {
+  display: none;
+}
